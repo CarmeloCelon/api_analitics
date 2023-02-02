@@ -1,0 +1,85 @@
+,day,campaign,source,medium,channelGrouping,dimension4,hostname,landingPagePath,fullReferrer,goal2Completions
+0,2023-01-31,(not set),(direct),(none),Direct,GA1.2.1342976088.1675130218,clinicas.vitaldent.com,"clinicas.vitaldent.com/resultados?lat=41.4538682&lng=2.2101403&search=08921,+santa+coloma+de+gramanet&bounds[sw]=41.44911154098692,2.199556371637007&bounds[ne]=41.46132386824332,2.219962371059622",(direct),1
+1,2023-01-31,(not set),(direct),(none),Direct,GA1.2.1482051276.1675183109,clinicas.vitaldent.com,clinicas.vitaldent.com/barcelona/vitaldent-martorell-253,(direct),1
+2,2023-01-31,(not set),(direct),(none),Direct,GA1.2.1483870200.1675175073,clinicas.vitaldent.com,clinicas.vitaldent.com/,(direct),1
+3,2023-01-31,(not set),(direct),(none),Direct,GA1.2.1671163809.1674779493,clinicas.vitaldent.com,clinicas.vitaldent.com/,(direct),1
+4,2023-01-31,(not set),(direct),(none),Direct,GA1.2.1790758306.1675158683,clinicas.vitaldent.com,www.vitaldent.com/blog/importancia-revision-odontologica-anual/,(direct),1
+5,2023-01-31,(not set),(direct),(none),Direct,GA1.2.1822885229.1675184829,clinicas.vitaldent.com,www.vitaldent.com/blog/importancia-revision-odontologica-anual/,(direct),1
+6,2023-01-31,(not set),(direct),(none),Direct,GA1.2.1954176440.1671121846,clinicas.vitaldent.com,www.vitaldent.com/blog/importancia-revision-odontologica-anual/,(direct),1
+7,2023-01-31,(not set),(direct),(none),Direct,GA1.2.2000825889.1675120330,clinicas.vitaldent.com,clinicas.vitaldent.com/,(direct),1
+8,2023-01-31,(not set),(direct),(none),Direct,GA1.2.445345028.1675148334,clinicas.vitaldent.com,"clinicas.vitaldent.com/resultados?lat=41.4946642&lng=2.3591531&search=08330,+premià+de+mar&bounds[sw]=41.48491662761018,2.344351145760616&bounds[ne]=41.49905344721746,2.376315942010494",(direct),1
+9,2023-01-31,(not set),(direct),(none),Direct,GA1.2.530235579.1671193217,clinicas.vitaldent.com,www.vitaldent.com/es/estetica-dental/,(direct),1
+10,2023-01-31,(not set),b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com,referral,Referral,GA1.1.662643967.1675186457,clinicas.vitaldent.com,clinicas.vitaldent.com/,b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com/,1
+11,2023-01-31,(not set),b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com,referral,Referral,GA1.2.1257925821.1671651603,clinicas.vitaldent.com,clinicas.vitaldent.com/,b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com/,1
+12,2023-01-31,(not set),b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com,referral,Referral,GA1.2.229760837.1675179018,clinicas.vitaldent.com,clinicas.vitaldent.com/,b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com/,1
+13,2023-01-31,(not set),b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com,referral,Referral,GA1.2.28005808.1668193992,clinicas.vitaldent.com,clinicas.vitaldent.com/,b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com/,1
+14,2023-01-31,(not set),b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com,referral,Referral,GA1.2.60443175.1675188237,clinicas.vitaldent.com,clinicas.vitaldent.com/,b797e736f9aa4659b49ed727fa70a214.svc.dynamics.com/,1
+15,2023-01-31,(not set),bing,organic,Organic Search,GA1.2.1806080574.1675157875,clinicas.vitaldent.com,clinicas.vitaldent.com/albacete,bing,1
+16,2023-01-31,(not set),google,cpc,Paid Search,GA1.2.381596294.1675139323,clinicas.vitaldent.com,"clinicas.vitaldent.com/resultados?lat=40.3825548&lng=-3.71184&search=c.+tarrasa,+1,+28026+madrid,+españa&bounds[sw]=40.3812084697085,-3.713204280291502&bounds[ne]=40.3839064302915,-3.710506319708498&dist=true",google,1
+17,2023-01-31,(not set),google,organic,Organic Search,GA1.1.1972417533.1674955342,clinicas.vitaldent.com,clinicas.vitaldent.com/las-palmas/vitaldent-las-palmas-330,google,1
+18,2023-01-31,(not set),google,organic,Organic Search,GA1.1.1977304057.1675202039,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+19,2023-01-31,(not set),google,organic,Organic Search,GA1.1.1989014056.1675172380,clinicas.vitaldent.com,clinicas.vitaldent.com/barcelona/vitaldent-sant-andreu-179,google,1
+20,2023-01-31,(not set),google,organic,Organic Search,GA1.1.244306657.1675199037,clinicas.vitaldent.com,clinicas.vitaldent.com/santa-cruz-de-tenerife/vitaldent-candelaria-45,google,1
+21,2023-01-31,(not set),google,organic,Organic Search,GA1.1.687541767.1675183543,clinicas.vitaldent.com,clinicas.vitaldent.com/huelva/vitaldent-huelva-alcalde-federico-molina-270,google,1
+22,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1058926500.1675166720,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
+23,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1124363954.1675170448,clinicas.vitaldent.com,www.vitaldent.com/blog/limpieza-dental-con-ultrasonido-como-realiza/,google,1
+24,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1130034921.1675190963,clinicas.vitaldent.com,clinicas.vitaldent.com/vizcaya/vitaldent-barakaldo-28,google,1
+25,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1167943748.1675184419,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-paseo-extremadura-149,google,1
+26,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1231125805.1675029921,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-alcorcon-mayor-328,google,1
+27,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1287894837.1675087196,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+28,2023-01-31,(not set),google,organic,Organic Search,GA1.2.131802054.1675186285,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-villaverde-ii-236,google,1
+29,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1338053045.1671479984,clinicas.vitaldent.com,clinicas.vitaldent.com/vizcaya/vitaldent-getxo-350,google,1
+30,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1378218896.1644988461,clinicas.vitaldent.com,clinicas.vitaldent.com/tarragona,google,1
+31,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1409640576.1675189730,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-clinica-dental-lopez-de-hoyos-269,google,1
+32,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1410728438.1675201665,clinicas.vitaldent.com,clinicas.vitaldent.com/malaga/vitaldent-torremolinos-303,google,1
+33,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1455122667.1675196803,clinicas.vitaldent.com,clinicas.vitaldent.com/murcia/vitaldent-alcantarilla-290,google,1
+34,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1501222542.1675077963,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-san-sebastian-de-los-reyes-i-174,google,1
+35,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1547709039.1673207528,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+36,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1588378419.1674740762,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-paseo-extremadura-149,google,2
+37,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1708340326.1675185146,clinicas.vitaldent.com,clinicas.vitaldent.com/las-palmas/vitaldent-las-palmas-330,google,1
+38,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1759271312.1675176807,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-madrid-marcelo-usera-316,google,1
+39,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1783720191.1675146119,clinicas.vitaldent.com,clinicas.vitaldent.com/gipuzkoa/vitaldent-eibar-348,google,1
+40,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1839607306.1675166302,clinicas.vitaldent.com,clinicas.vitaldent.com/la-coruna/vitaldent-a-coruna-vi-266,google,1
+41,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1876655601.1675082097,clinicas.vitaldent.com,clinicas.vitaldent.com/girona/vitaldent-gerona-ii-77,google,1
+42,2023-01-31,(not set),google,organic,Organic Search,GA1.2.1974870206.1668801481,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-general-ricardos-75,google,1
+43,2023-01-31,(not set),google,organic,Organic Search,GA1.2.2001128005.1675173926,clinicas.vitaldent.com,clinicas.vitaldent.com/vizcaya/vitaldent-portugalete-355,google,1
+44,2023-01-31,(not set),google,organic,Organic Search,GA1.2.2048414795.1675162265,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+45,2023-01-31,(not set),google,organic,Organic Search,GA1.2.2145487376.1675185087,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+46,2023-01-31,(not set),google,organic,Organic Search,GA1.2.222949291.1667469667,clinicas.vitaldent.com,clinicas.vitaldent.com/valencia/vitaldent-clinica-dental-ontinyent-383,google,1
+47,2023-01-31,(not set),google,organic,Organic Search,GA1.2.317980680.1659910545,clinicas.vitaldent.com,clinicas.vitaldent.com/gipuzkoa/vitaldent-san-sebastian-ii-176,google,1
+48,2023-01-31,(not set),google,organic,Organic Search,GA1.2.331125242.1675186025,clinicas.vitaldent.com,www.vitaldent.com/blog/dientes-transparentes-que-son/,google,1
+49,2023-01-31,(not set),google,organic,Organic Search,GA1.2.587845932.1675181887,clinicas.vitaldent.com,clinicas.vitaldent.com/vizcaya/vitaldent-santurce-188,google,1
+50,2023-01-31,(not set),google,organic,Organic Search,GA1.2.627110827.1670782993,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
+51,2023-01-31,(not set),google,organic,Organic Search,GA1.2.746549437.1675178775,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-rivas-163,google,1
+52,2023-01-31,(not set),google,organic,Organic Search,GA1.2.795255331.1675153340,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
+53,2023-01-31,(not set),google,organic,Organic Search,GA1.2.889903904.1675187520,clinicas.vitaldent.com,clinicas.vitaldent.com/valencia/vitaldent-algemesi-13,google,1
+54,2023-01-31,(not set),google,organic,Organic Search,GA1.2.96299881.1675196967,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+55,2023-01-31,(not set),google,organic,Organic Search,GA1.2.978933623.1675197391,clinicas.vitaldent.com,clinicas.vitaldent.com/gipuzkoa/vitaldent-irun-93,google,1
+56,2023-01-31,(not set),google,organic,Organic Search,GA1.3.937814327.1636209900,clinicas.vitaldent.com,clinicas.vitaldent.com/islas-baleares/vitaldent-palma-de-mallorca-i-142,google,1
+57,2023-01-31,(not set),l.facebook.com,referral,Social,GA1.2.944146805.1675166345,clinicas.vitaldent.com,www.vitaldent.com/es/,l.facebook.com/,1
+58,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1017591411.1675152998,clinicas.vitaldent.com,clinicas.vitaldent.com/?q=pamplona españa,google,1
+59,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1038268361.1675193910,clinicas.vitaldent.com,clinicas.vitaldent.com/tarragona/vitaldent-el-vendrell-294,google,1
+60,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1155382493.1675172741,clinicas.vitaldent.com,clinicas.vitaldent.com/jaen/vitaldent-andujar-18,google,1
+61,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1734375131.1675149569,clinicas.vitaldent.com,clinicas.vitaldent.com/melilla/vitaldent-melilla-125,google,1
+62,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1736635492.1675183615,clinicas.vitaldent.com,clinicas.vitaldent.com/valladolid,google,1
+63,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1832450133.1675080194,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
+64,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1849288988.1675179249,clinicas.vitaldent.com,clinicas.vitaldent.com/madrid/vitaldent-rivas-163,google,1
+65,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1883989250.1675119593,clinicas.vitaldent.com,clinicas.vitaldent.com/almeria,google,1
+66,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.1970292177.1675158238,clinicas.vitaldent.com,www.vitaldent.com/es/protesis-dental/,google,1
+67,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.2006612976.1675190253,clinicas.vitaldent.com,clinicas.vitaldent.com/islas-baleares/vitaldent-ibiza-90,google,1
+68,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.322753826.1675183084,clinicas.vitaldent.com,clinicas.vitaldent.com/melilla/vitaldent-melilla-125,google,1
+69,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.60393860.1675192278,clinicas.vitaldent.com,clinicas.vitaldent.com/barcelona/vitaldent-vic-229,google,2
+70,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.721693321.1675192230,clinicas.vitaldent.com,clinicas.vitaldent.com/salamanca,google,1
+71,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Localizaciones,google,cpc,Paid Search,GA1.2.787818868.1675184321,clinicas.vitaldent.com,clinicas.vitaldent.com/barcelona/vitaldent-vilafranca-del-penedes-310,google,1
+72,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Marca_Pura,google,cpc,Paid Search,GA1.2.1016087454.1656086611,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+73,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Marca_Pura,google,cpc,Paid Search,GA1.2.1150991014.1675190384,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+74,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Marca_Pura,google,cpc,Paid Search,GA1.2.1245328071.1675166707,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+75,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Marca_Pura,google,cpc,Paid Search,GA1.2.21554859.1675183808,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+76,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Marca_Pura,google,cpc,Paid Search,GA1.2.328767332.1675198895,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+77,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Marca_Pura,google,cpc,Paid Search,GA1.2.429579592.1674052603,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
+78,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Marca_Pura,google,cpc,Paid Search,GA1.2.757341755.1674565769,clinicas.vitaldent.com,www.vitaldent.com/es/,google,1
+79,2023-01-31,VITALDENT_ES_SEARCH_BRAND_Tratamiento,google,cpc,Paid Search,GA1.2.1963371459.1675177326,clinicas.vitaldent.com,www.vitaldent.com/es/ortodoncia/,google,1
+80,2023-01-31,VITALDENT_ES_SEARCH_GEN,google,cpc,Paid Search,GA1.1.1812251312.1675146935,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
+81,2023-01-31,VITALDENT_MAD_SEARCH_BRAND_Pure_EX,google,cpc,Paid Search,GA1.2.1776481165.1673273504,clinicas.vitaldent.com,www.vitaldent.com/es/protesis-dental-fija/,google,1
+82,2023-01-31,VITALDENT_MAD_SEARCH_BRAND_Tratamientos,google,cpc,Paid Search,GA1.2.2065825216.1613509261,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
+83,2023-01-31,VITALDENT_MUR_SEARCH_BRAND_Combinaciones,google,cpc,Paid Search,GA1.2.1150533618.1674764337,clinicas.vitaldent.com,clinicas.vitaldent.com/,google,1
